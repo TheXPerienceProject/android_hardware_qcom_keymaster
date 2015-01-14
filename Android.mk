@@ -34,7 +34,8 @@ LOCAL_SHARED_LIBRARIES := \
         libcrypto \
         liblog \
         libc \
-        libdl
+        libdl \
+        libcutils
 
 LOCAL_HEADER_LIBRARIES := generated_kernel_headers
 
